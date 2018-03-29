@@ -1221,9 +1221,10 @@ a.btn-mod:focus{
 .hs-line-4{
     font-family: "Open Sans", arial, sans-serif;
     margin-top: 0;
+    text-align: center;
     position: relative;
-    font-size: 18px;
-    font-weight: 400;
+    font-size: 22px;
+    font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 3px;
     color: rgba(255,255,255, .85);
@@ -2679,14 +2680,15 @@ a.logo:hover{
 .bg-red{ background-color: #e13939 !important; }
 
 .section-title {
-    font-family: "Open Sans", arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     margin-bottom: 15px;
     font-size: 22px;
-    font-weight: 600;
+    font-weight: 800;
     text-transform: uppercase;
     text-align: center;
-    letter-spacing: 0.5em;
+    letter-spacing: 0.1em;
     line-height: 1.4;
+    color: red;
 }
 .section-more{
     margin-top: 7px;
@@ -2728,7 +2730,7 @@ a.logo:hover{
 }
 .section-text{
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 600;
     color: #111;
     line-height: 1.7;
 }
