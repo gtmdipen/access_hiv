@@ -655,18 +655,18 @@ a.btn-mod:focus{
 .btn-mod.btn-small{
     height: auto;
     padding: 6px 17px;
-    font-size: 11px;
+    font-size: 11;
     letter-spacing: 1px;
 } 
 .btn-mod.btn-medium{
     height: auto;
     padding: 8px 37px;
-    font-size: 12px;
+    font-size: 20px;
 } 
 .btn-mod.btn-large{
     height: auto;
     padding: 12px 45px;
-    font-size: 13px;
+    font-size: 11px;
 } 
 
 .btn-mod.btn-glass{
@@ -920,7 +920,7 @@ a.btn-mod:focus{
     height: 37px;
     padding-left: 13px;
     padding-right: 13px;
-    font-size: 12px;
+    font-size: 18px;
 }
 .form input[type="text"].input-sm,
 .form input[type="email"].input-sm,
@@ -5206,7 +5206,7 @@ section:hover .small-item-carousel .owl-next{
     box-sizing: border-box;
     
     border: 1px solid #ddd;
-    font-size: 14px;
+    font-size: 20px;
     letter-spacing: 1px;
     text-transform: uppercase;
     color: #777;
@@ -5245,7 +5245,7 @@ section:hover .small-item-carousel .owl-next{
 
 .accordion > dt{
     margin-bottom: 10px;
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 0.2em;
@@ -5314,7 +5314,7 @@ section:hover .small-item-carousel .owl-next{
 .accordion > dd{
     margin-bottom: 10px;
     padding: 10px 20px 20px;
-    font-size: 14px;
+    font-size: 20px;
     line-height: 1.8;
     color: #111;
 }
