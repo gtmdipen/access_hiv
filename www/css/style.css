@@ -5272,9 +5272,9 @@ section:hover .small-item-carousel .owl-next{
     color: #444;
 }
 .accordion > dt > a.active{
-    color: #000;
+    color: #fff;
     border-color: #ddd;
-    background-color: #fcfcfc;
+    background-color: #b60707;
     cursor: default;
 }
 .accordion > dt > a:after{
