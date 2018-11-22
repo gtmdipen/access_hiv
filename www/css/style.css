@@ -101,7 +101,7 @@ Section Text:       15px/1.7 "Open Sans", arial, sans-serif;
 
 
 
-.btn-round{min-width: 245px; min-height: 80px;}   
+.btn-round{min-width: 300px; min-height: 80px;}   
 
 
 .align-center{ text-align:center !important; }
@@ -660,13 +660,14 @@ a.btn-mod:focus{
 } 
 .btn-mod.btn-medium{
     height: auto;
-    padding: 8px 37px;
-    font-size: 20px;
+    padding: 2px 23px;
+    font-size: 25px;
+    min-width: 180px
 } 
 .btn-mod.btn-large{
     height: auto;
     padding: 12px 45px;
-    font-size: 11px;
+    font-size: 15px;
 } 
 
 .btn-mod.btn-glass{
