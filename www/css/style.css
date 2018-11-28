@@ -666,8 +666,8 @@ a.btn-mod:focus{
 } 
 .btn-mod.btn-large{
     height: auto;
-    padding: 12px 45px;
-    font-size: 15px;
+    padding: 5px 4px;
+    font-size: 20px;
 } 
 
 .btn-mod.btn-glass{
@@ -1533,8 +1533,8 @@ a.logo:hover{
 .inner-nav ul{
     float: right;
     margin: auto;
-    font-size: 11px;
-    font-weight: 400;
+    font-size: 15px;
+    font-weight: 900;
     letter-spacing: 1px;
     text-transform: uppercase;
     text-align: center;
